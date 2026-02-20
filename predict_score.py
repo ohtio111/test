@@ -11,7 +11,7 @@ two chosen teams using independent Poisson models.
 import sys
 import math
 import random
-import requests
+##import requests
 from collections import defaultdict
 
 try:
