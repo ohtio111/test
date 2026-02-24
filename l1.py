@@ -1,5 +1,5 @@
 import sys
-
+# this is for testing the l1 layer of the model, which is just a simple arithmetic script for now. The predict_score.py script will be the main one that uses the model to predict football scores, and it will call this l1.py script as a subprocess to do the actual calculations.
 # simple arithmetic script expects three arguments:
 #   python l1.py <num1> <operator> <num2>
 # where <operator> is one of + - * /
